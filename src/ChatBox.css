@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 .react-chat-container {
 	width: 100%;
+	max-width: 100%;
 	/* padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
