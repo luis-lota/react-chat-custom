@@ -1,6 +1,6 @@
 {
   "name": "@luis-lota/react-chat-custom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "plugin-to-use-refactored",
   "main": "dist/main.js",
   "scripts": {
